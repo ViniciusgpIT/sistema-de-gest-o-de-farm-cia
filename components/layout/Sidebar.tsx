@@ -57,7 +57,7 @@ function Sidebar({ isOpen }: { isOpen: boolean }) {
           ))}
         </nav>
         <div className="mt-auto text-center text-gray-500 text-xs">
-          <p>&copy; 2024 Gestão Farmácia</p>
+          <p>&copy; 2026 Gestão Farmácia</p>
         </div>
       </div>
     </aside>
